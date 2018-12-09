@@ -1,0 +1,337 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.stickers.funnysticker",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "One",
+      "publisher": "App",
+      "tray_image_file": "main.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Two",
+      "publisher": "App",
+      "tray_image_file": "main.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "11.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤔","😐"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Three",
+      "publisher": "App",
+      "tray_image_file": "main.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+
+    {
+      "image_file": "21.webp",
+      "emojis": ["🤔","😐"]
+    },
+    {
+      "image_file": "22.webp",
+      "emojis": ["🤔","😐"]
+    },
+    {
+      "image_file": "23.webp",
+      "emojis": ["🤔","😐"]
+    },
+    {
+      "image_file": "24.webp",
+      "emojis": ["🤔","😐"]
+    },
+    {
+      "image_file": "25.webp",
+      "emojis": ["🤔","😐"]
+    },
+        {
+          "image_file": "26.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😭","💧"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Monkey",
+      "publisher": "Novum Apps",
+      "tray_image_file": "tray_Monkey.png",
+      "publisher_email":"",
+      "publisher_website": "https://play.google.com/store/apps/details?id=novumapps.animalstickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "27_Monkey_Blush.webp"
+        },
+        {
+          "image_file": "29_Monkey_Cry.webp"
+        },
+        {
+          "image_file": "28_Monkey_Confused.webp"
+        },
+        {
+          "image_file": "21_Monkey_Birthday.webp"
+        },
+        {
+          "image_file": "20_Monkey_Cold.webp"
+        },
+        {
+          "image_file": "24_Monkey_Sneezing.webp"
+        },
+        {
+          "image_file": "25_Monkey_Star_Eyes.webp"
+        },
+        {
+          "image_file": "26_Monkey_Sun_Glasses.webp"
+        },
+        {
+          "image_file": "01_Monkey_Normal.webp"
+        },
+        {
+          "image_file": "22_Monkey_Eyes_Rolling.webp"
+        },
+        {
+          "image_file": "02_Monkey_Wink.webp"
+        },
+        {
+          "image_file": "03_Monkey_Mouth.webp"
+        },
+        {
+          "image_file": "04_Monkey_Mouth.webp"
+        },
+        {
+          "image_file": "05_Monkey_Sad.webp"
+        },
+        {
+          "image_file": "06_Monkey_Happy.webp"
+        },
+        {
+          "image_file": "07_Monkey_Tongue.webp"
+        },
+        {
+          "image_file": "08_Monkey_Crying.webp"
+        },
+        {
+          "image_file": "09_Monkey_Love.webp"
+        },
+        {
+          "image_file": "10_Monkey_Glasses.webp"
+        },
+        {
+          "image_file": "11_Monkey_Shook.webp"
+        },
+        {
+          "image_file": "12_Monkey_Pain.webp"
+        },
+        {
+          "image_file": "13_Monkey_Angry.webp"
+        },
+        {
+          "image_file": "14_Monkey_Sleepy.webp"
+        },
+        {
+          "image_file": "15_Monkey_Delicious.webp"
+        },
+        {
+          "image_file": "16_Monkey_Laughing.webp"
+        },
+        {
+          "image_file": "17_Monkey_Messy.webp"
+        },
+        {
+          "image_file": "18_Monkey_Zombie.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Christmas/New Year",
+      "publisher": "Novum Apps",
+      "tray_image_file": "tray_Monkey.png",
+      "publisher_email":"",
+      "publisher_website": "https://play.google.com/store/apps/details?id=novumapps.animalstickers",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "00_Monkey_Christmas.webp"
+        },
+        {
+          "image_file": "01_Monkey_Deer.webp"
+        },
+        {
+          "image_file": "02_Monkey_Holidays.webp"
+        },
+        {
+          "image_file": "03_Bells.webp"
+        },
+        {
+          "image_file": "04_Candy.webp"
+        },
+        {
+          "image_file": "05_Christmas_Tree.webp"
+        },
+        {
+          "image_file": "08_Christmas_Tree.webp"
+        },
+        {
+          "image_file": "11_Christmas_Tree.webp"
+        },
+        {
+          "image_file": "12_Christmas_Tree.webp"
+        },
+        {
+          "image_file": "13_Christmas_Tree.webp"
+        },
+        {
+          "image_file": "06_Christmas.webp"
+        },
+        {
+          "image_file": "07_Santa.webp"
+        },
+        {
+          "image_file": "09_Present.webp"
+        },
+        {
+          "image_file": "10_Snow.webp"
+        },
+        {
+          "image_file": "14_Candles.webp"
+        },
+        {
+          "image_file": "18_Present.webp"
+        },
+        {
+          "image_file": "19_Present.webp"
+        },
+        {
+          "image_file": "20_Reindeer.webp"
+        },
+        {
+          "image_file": "22_Santa.webp"
+        },
+        {
+          "image_file": "21_Santa.webp"
+        },
+        {
+          "image_file": "15_Celebrate.webp"
+        },
+        {
+          "image_file": "16_Fireworks.webp"
+        },
+        {
+          "image_file": "17_Sparkle.webp"
+        }
+      ]
+    }
+  ]
+}
